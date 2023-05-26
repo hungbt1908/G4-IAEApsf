@@ -1,0 +1,8 @@
+/testem/phys/addPhysics emstandard_opt3
+/run/initialize
+/process/em/printParameters 
+
+/Phsp/Name testPSF
+/Phsp/Zstop 10 cm
+
+/run/beamOn 1000
