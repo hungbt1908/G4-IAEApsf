@@ -60,7 +60,7 @@ This project includes 2 examples about IAEA routine.
     ```
 
 ## 🏃‍♂️ How to run
-- Create a new folder to buid example
+- Create a new folder to build example. For example, I created "bld" folder.
     ```c++
     cd G4IAEApsf-Reader
     mkdir bld
