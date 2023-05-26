@@ -78,7 +78,7 @@ This project includes 2 examples about IAEA routine.
 
 ## 📒 References
 1) [Capote, R., Jeraj, R., Ma, C. M., Rogers, D. W., Sánchez-Doblado, F., Sempau, J., ... & Siebers, J. V. (2006). Phase-space database for external beam radiotherapy. Summary report of a consultants' meeting.](https://inis.iaea.org/collection/NCLCollectionStore/_Public/37/073/37073778.pdf?r=1)
-2) 
+2) [Cortés-Giraldo, M. A., Quesada, J. M., Gallardo, M. I., & Capote, R. (2009). Geant4 interface to work with IAEA phase-space files.](https://www-nds.iaea.org/phsp/Geant4/G4IAEAphsp_HowTo.pdf)
 ## 🚀 About Me
 **Bùi Tiến Hưng**
 
