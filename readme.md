@@ -29,10 +29,10 @@ This project includes 2 examples about IAEA routine.
 - Download all data files and extract to "data" folder that created inside "Geant4" folder.
 - We will have 4 folders
 
-    ../Softwares/Geant4/
-    ├── build
-    ├── data
-    ├── install
+    ../Softwares/Geant4/\
+    ├── build\
+    ├── data\
+    ├── install\
     └── source
 
 - Let open Terminal in "build" folder and type
