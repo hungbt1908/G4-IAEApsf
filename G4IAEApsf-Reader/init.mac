@@ -1,0 +1,5 @@
+/testem/phys/addPhysics emstandard_opt3
+/run/initialize
+/process/em/printParameters 
+
+/control/execute vis.mac
