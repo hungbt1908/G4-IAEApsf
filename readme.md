@@ -6,10 +6,11 @@ This project includes 2 examples about IAEA routine.
 * G4IAEApsf-Writer
 
 ## 🔧 Requirements
-* Geant4.10.07
+* Ubuntu 20.04 or Window 10/11
+* Geant4.10.07 (Tested)
 
 #### a) Pre-Packages installation
-- Mở của số Terminal và nhập lệnh sau để cập nhật Ubuntu
+- Open UbuMở của số Terminal và nhập lệnh sau để cập nhật Ubuntu
     ```c++
     $ sudo apt-get update && sudo apt-get upgrade
     ```
@@ -48,6 +49,9 @@ This project includes 2 examples about IAEA routine.
     source "/home/Softwares/Geant4/install/share/Geant4-10.6.3/geant4make/geant4make.sh"
     ```
 
+## 📒 References
+1) [Capote, R., Jeraj, R., Ma, C. M., Rogers, D. W., Sánchez-Doblado, F., Sempau, J., ... & Siebers, J. V. (2006). Phase-space database for external beam radiotherapy. Summary report of a consultants' meeting.](https://inis.iaea.org/collection/NCLCollectionStore/_Public/37/073/37073778.pdf?r=1)
+2) 
 ## 🚀 About Me
 **Bùi Tiến Hưng**
 
